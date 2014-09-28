@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Ruby Refactor: Extract Local Variable",
+    "command": "ruby_extract_local_variable_prompt"
+  }
+]
